@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+
+
+
+
+this.refs.item.style.animation = "deleting 0.7s ease-out";
